@@ -1,8 +1,0 @@
-prefix=/home/jinmin/zm_ws/install
-
-Name: zm_robot_navigation
-Description: Description of zm_robot_navigation
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

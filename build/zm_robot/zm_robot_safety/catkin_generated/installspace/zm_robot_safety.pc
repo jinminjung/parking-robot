@@ -1,8 +1,0 @@
-prefix=/home/jinmin/zm_ws/install
-
-Name: zm_robot_safety
-Description: Description of zm_robot_safety
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: dynamic_reconfigure geometry_msgs laser_geometry sensor_msgs std_msgs tf visualization_msgs
