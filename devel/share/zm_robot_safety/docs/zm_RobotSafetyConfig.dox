@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~unlock_safe" : \b [bool] The robot unlock safety when moving. min: False, default: False, max: True
+- \b "~slow_range_l" : \b [double] The robot slow velocity moving when closing lenght of slow range. min: 0.0, default: 0.7, max: 5.0
+- \b "~slow_range_w" : \b [double] The robot slow velocity moving when closing width of slow range. min: 0.0, default: 0.3, max: 5.0
+- \b "~stop_range_l" : \b [double] The robot estop when closing lenght of slow range. min: 0.0, default: 0.4, max: 5.0
+- \b "~stop_range_w" : \b [double] The robot estop when closing width of slow range. min: 0.0, default: 0.25, max: 5.0
+- \b "~node_loop_rate" : \b [double] Loop rate in Hz min: 1.0, default: 20.0, max: 100.0
+

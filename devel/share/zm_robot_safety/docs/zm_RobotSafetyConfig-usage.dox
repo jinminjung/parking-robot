@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="zm_robot_safety" pkg="zm_robot_safety" type="zm_robot_safety">
+  <param name="unlock_safe" type="bool" value="False" />
+  <param name="slow_range_l" type="double" value="0.7" />
+  <param name="slow_range_w" type="double" value="0.3" />
+  <param name="stop_range_l" type="double" value="0.4" />
+  <param name="stop_range_w" type="double" value="0.25" />
+  <param name="node_loop_rate" type="double" value="20.0" />
+</node>
+\endverbatim
+

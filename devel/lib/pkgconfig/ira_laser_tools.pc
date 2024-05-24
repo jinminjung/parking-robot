@@ -1,0 +1,8 @@
+prefix=/home/jinmin/zm_ws/devel
+
+Name: ira_laser_tools
+Description: Description of ira_laser_tools
+Version: 1.0.7
+Cflags: -I/home/jinmin/zm_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

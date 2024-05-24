@@ -1,0 +1,2 @@
+gazebo_mecanum_plugins:ira_laser_tools:navigation_layers/navigation_layers:navigation_layers/range_sensor_layer:navigation_layers/social_navigation_layers:zm_robot/zm_robot_description:zm_robot/zm_robot_gazebo:zm_robot/zm_robot_navigation:zm_robot/zm_robot_programing:zm_robot/zm_robot_safety:zm_robot/zm_robot_teleope_key:zm_robot/zm_robot_twist_mux:zm_robot/zm_robot_warehouse
+-DCATKIN_DEVEL_PREFIX=/home/jinmin/zm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jinmin/zm_ws/install -G Unix Makefiles

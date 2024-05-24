@@ -1,0 +1,8 @@
+prefix=/home/jinmin/zm_ws/install
+
+Name: zm_robot_teleope_key
+Description: Description of zm_robot_teleope_key
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
