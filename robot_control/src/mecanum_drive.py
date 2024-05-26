@@ -7,10 +7,11 @@ from geometry_msgs.msg import Twist
 # GPIO 핀 번호 정의
 MOTOR_PINS = {
     'FL': {'ENA': 17, 'IN1': 22, 'IN2': 23},
-    'FR': {'ENA': 18, 'IN3': 24, 'IN4': 25},
+    'FR': {'ENA': 18, 'IN1': 24, 'IN2': 25},
     'BL': {'ENA': 27, 'IN1': 5,  'IN2': 6},
-    'BR': {'ENA': 13, 'IN3': 19, 'IN4': 26}
+    'BR': {'ENA': 13, 'IN1': 19, 'IN2': 26}
 }
+GPIO.setwarnings(False)
 
 def setup_motor_pins():
     GPIO.setmode(GPIO.BCM)
