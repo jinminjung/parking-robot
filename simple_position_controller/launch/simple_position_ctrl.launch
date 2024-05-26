@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="simple_position_controller" type="controller3.py" name="position_controller" output="screen" />
+
+  <node pkg="simple_position_controller" type="rotate.py" name="position_controller" output="screen" />
+</launch>

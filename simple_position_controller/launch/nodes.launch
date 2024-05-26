@@ -1,0 +1,7 @@
+<launch>
+    <!-- ROS 노드 1 실행 -->
+    <node pkg="simple_position_controller" type="controller3.py" name="controller" output="screen"/>
+
+    <!-- ROS 노드 2 실행 -->
+    <node pkg="simple_position_controller" type="rotate.py" name="rotate" output="screen"/>
+</launch>
