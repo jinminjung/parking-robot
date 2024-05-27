@@ -13,6 +13,8 @@ if __name__ == "__main__":
     twist.linear.y = 0.0
     twist.angular.z = 0.0
 
+    time.sleep(20) 
+    
     start_time = time.time()
     rate = rospy.Rate(10)  # 10Hz로 퍼블리시
 
