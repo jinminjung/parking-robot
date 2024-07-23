@@ -1,6 +1,5 @@
 ## Parking Robot
 
-### [zm_robot]([https://arxiv.org/abs/2201.0380]([https://github.com/qaz9517532846/zm_robot ](https://github.com/qaz9517532846/zm_robot))
 --- 
 
 clone gazebo_mecanum_plugins package.
@@ -17,3 +16,10 @@ clone navigation_layers package.
 ```
   git clone https://github.com/DLu/navigation_layers.git
 ```
+
+
+## Reference:
+
+[1]. zm_robot, https://github.com/qaz9517532846/zm_robot
+
+[2] Nexus 4WD Mecanum Simulator, https://github.com/RBinsonB/nexus_4wd_mecanum_simulator
