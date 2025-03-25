@@ -1,5 +1,7 @@
 ## Parking Robot
 
+![Image](https://github.com/user-attachments/assets/22a86cb8-77ce-414d-b56a-a0978c28e41d)
+
 --- 
 
 clone gazebo_mecanum_plugins package.
