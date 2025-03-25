@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/df5ae914-2592-475d-9b2c-85e04d39e5d8)
 
-![Image](https://github.com/user-attachments/assets/2f3b8575-bb2b-46c6-a56c-67e9c555d046)
+<img src="https://github.com/user-attachments/assets/2f3b8575-bb2b-46c6-a56c-67e9c555d046" width="200" height="400"/>
 
 design
 
@@ -25,7 +25,7 @@ clone navigation_layers package.
   git clone https://github.com/DLu/navigation_layers.git
 ```
 
-[![Smart Parking System](https://www.youtube.com/watch?v=uYu5-XQoNcQ/0.jpg)(https://www.youtube.com/watch?v=uYu5-XQoNcQ)]
+[![Smart Parking System](https://www.youtube.com/watch?v=uYu5-XQoNcQ/0.jpg)](https://www.youtube.com/watch?v=uYu5-XQoNcQ)
 
 https://youtu.be/uYu5-XQoNcQ
 
