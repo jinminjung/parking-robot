@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/df5ae914-2592-475d-9b2c-85e04d39e5d8)
 
-<img src="https://github.com/user-attachments/assets/2f3b8575-bb2b-46c6-a56c-67e9c555d046" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/2f3b8575-bb2b-46c6-a56c-67e9c555d046" width="400" height="300"/>
 
 design
 
